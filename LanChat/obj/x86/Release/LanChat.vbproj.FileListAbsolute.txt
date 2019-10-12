@@ -1,0 +1,26 @@
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\LanChat\LanChat\bin\Release\LanChat.exe
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\LanChat\LanChat\bin\Release\LanChat.pdb
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\LanChat\LanChat\bin\Release\LanChat.xml
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\LanChat\LanChat\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\LanChat\LanChat\obj\x86\Release\LanChat.ChatForm.resources
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\LanChat\LanChat\obj\x86\Release\LanChat.ChatStart.resources
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\LanChat\LanChat\obj\x86\Release\LanChat.Resources.resources
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\LanChat\LanChat\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\LanChat\LanChat\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\LanChat\LanChat\obj\x86\Release\LanChat.exe
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\LanChat\LanChat\obj\x86\Release\LanChat.xml
+C:\Users\Mike\Documents\Visual Studio 2010\Projects\LanChat\LanChat\obj\x86\Release\LanChat.pdb
+C:\Users\AnupGaurav\Desktop\LanChat\LanChat\bin\Release\LanChat.exe
+C:\Users\AnupGaurav\Desktop\LanChat\LanChat\bin\Release\LanChat.pdb
+C:\Users\AnupGaurav\Desktop\LanChat\LanChat\bin\Release\LanChat.xml
+C:\Users\AnupGaurav\Desktop\LanChat\LanChat\obj\x86\Release\LanChat.ChatForm.resources
+C:\Users\AnupGaurav\Desktop\LanChat\LanChat\obj\x86\Release\LanChat.ChatStart.resources
+C:\Users\AnupGaurav\Desktop\LanChat\LanChat\obj\x86\Release\LanChat.Resources.resources
+C:\Users\AnupGaurav\Desktop\LanChat\LanChat\obj\x86\Release\LanChat.vbproj.GenerateResource.Cache
+C:\Users\AnupGaurav\Desktop\LanChat\LanChat\obj\x86\Release\LanChat.exe
+C:\Users\AnupGaurav\Desktop\LanChat\LanChat\obj\x86\Release\LanChat.xml
+C:\Users\AnupGaurav\Desktop\LanChat\LanChat\obj\x86\Release\LanChat.pdb
+D:\Project\LanChat\LanChat\bin\Release\LanChat.exe.config
+D:\Project\LanChat\LanChat\obj\x86\Release\LanChat.exe
+D:\Project\LanChat\LanChat\obj\x86\Release\LanChat.xml
+D:\Project\LanChat\LanChat\obj\x86\Release\LanChat.pdb
